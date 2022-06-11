@@ -1,6 +1,6 @@
 <h1 align = center>
   
-  <p>Ola, eu sou o Yuri Sampaio</p>
+  <p>Ola, eu sou o Yuri Sampaio!</p>
   
 </h1>
 
@@ -10,8 +10,8 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/YuriSamp">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=YuriSamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSamp&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=YuriSamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=30"/>
+  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSamp&layout=compact&langs_count=7&theme=radical&border_radius=30"/>
 </div>
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
