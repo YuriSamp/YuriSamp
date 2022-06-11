@@ -1,6 +1,6 @@
 ### Ola, eu sou o Yuri Sampaio
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Estudo para trabalhar com front-end
 - 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
