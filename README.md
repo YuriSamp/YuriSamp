@@ -6,7 +6,7 @@
 
 - 🔭 Estudo para trabalhar com front-end
 - 🌱 Estudando React
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/YuriSamp">
