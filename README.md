@@ -4,7 +4,7 @@
   
 </h1>
 
-- 🔭 Estudo para trabalhar com front-end
+- 🔭 Estudo front-end desde janeiro de 2022 
 - 💻 Estudando: Javascript
 
 <div style="display: inline_block" align="center">
