@@ -4,8 +4,8 @@
   
 </h1>
 
-- 🔭 Estudo front-end desde janeiro de 2022 
-- 💻 Estudando: Javascript
+- 🔭 I'm Learning front-end since january 2022
+- 💻 Learning at this moment: Javascript
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/YuriSamp">
