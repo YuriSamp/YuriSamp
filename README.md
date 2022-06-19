@@ -5,8 +5,7 @@
 </h1>
 
 - 🔭 Estudo para trabalhar com front-end
-- 🌱 Estudando React
-- 😄 Pronomes: ele/dele
+- 💻 Estudando: Javascript
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/YuriSamp">
