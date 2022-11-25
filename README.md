@@ -26,8 +26,9 @@
 
 </div>
 
-## <p align="center">Where you'll find me</p>
+## 
 <div align="center">
+  <h3 align="center">Where you'll find me</h3>
   <a href = "https://twitter.com/Yuri_Sampa"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
    target="_blank"></a>
   <a href = "mailto:yurisamp123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
