@@ -1,6 +1,6 @@
 <h1 align = center>
   
-  <p>Hello, i'm Yuri Sampaio!</p>
+  <p >Hello, i'm a front-end developer!</p>
   
 </h1>
 
