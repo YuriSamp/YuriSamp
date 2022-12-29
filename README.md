@@ -1,6 +1,6 @@
 <h1 align = center>
   
-  <p >Hello, i'm a full-stack developer!</p>
+  <p >Hello, i'm a software engineer!</p>
   
 </h1>
 
