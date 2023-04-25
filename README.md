@@ -7,7 +7,6 @@
 - 🤖 I am 20 years
 - 🔭 I'm Learning software development since january 2022.
 - 🖥️ Currently i'm developing some full-stack apps to improve more my skills in a wide scenery.
-- 🦀 I intend to learn rust sometime because glimpse my eyes how much this language is used in industry.
 - ⚙️ My favorite tech stack right now is Next + Tailwind + Typescript
 
 <div style="display: inline_block" align="center">
