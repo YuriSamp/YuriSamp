@@ -9,11 +9,7 @@
 - 🖥️ Currently i'm developing some full-stack apps to improve more my skills in a wide scenery.
 - ⚙️ My favorite tech stack right now is Next + Tailwind + Typescript
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/YuriSamp">
-  <img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuriSamp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=30"/>
-  <img height="180em" width="48%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuriSamp&layout=compact&langs_count=7&theme=radical&border_radius=30"/>
-</div>
+
   <h3 align='center'>Technologies I'm using at the moment<h3>
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
