@@ -10,7 +10,6 @@
 - ⚙️ My favorite tech stack right now is Next + Tailwind + Typescript
 
 
-## 
 <div align="center">
   <h3 align="center">Where you'll find me</h3>
   <a href = "https://twitter.com/Yuri_Sampa"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
