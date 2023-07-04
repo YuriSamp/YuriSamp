@@ -1,1 +1,3 @@
-Check out my website -> https://portfolio-yuri.vercel.app
+<samp>
+  Check out my website -> <a href="https://portfolio-yuri.vercel.app" target="_blank">pal4st.dev</a>
+</samp>
