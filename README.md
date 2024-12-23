@@ -1,3 +1,3 @@
 <samp>
-  Currently building stuff and my new blog :)
+  Currently building stuff and writing for my new blog :)
 </samp>
